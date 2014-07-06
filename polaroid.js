@@ -225,5 +225,4 @@ $.fn.polaroid = function (config) {
         polaroid.$src = $(this);
         polaroid.init(config);
     });
-}
-
+};
